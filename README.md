@@ -5,7 +5,7 @@
 [![Linkedin: Tiago Papile](https://img.shields.io/badge/-Tiago%20Papile-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagopapile/)](https://www.linkedin.com/in/tiagopapile/)
 [![GitHub Tiago Papile](https://img.shields.io/github/followers/tiagopapile?label=Tiago%20Papile&style=social)](https://github.com/tiagopapile)
 [![GitHub Lorde Aleister](https://img.shields.io/github/followers/tiagopapile?label=Lorde%20Aleister&style=social)](https://github.com/lordealeister)
-[![Gmail Badge](https://img.shields.io/badge/-tpapile@studiovisual.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tpapile@studiovisual.com.br)](mailto:tpapile@studiovisual.com.br)
+[![Gmail Badge](https://img.shields.io/badge/-tiagopapile@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiagopapile@gmail.com)](mailto:tiagopapile@gmail.com)
 
 <h3>A little more about me...</h3>
 
